@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zTfkwusUNR8B0PXryIV1x4qi7706aiFPQwJR93TWgTp9QfEtYtgdyyxnde4j5p1dpKwsrVNEhwt9GsUJwP5jsQ==",
+  "dgSpecHash": "W4UMIcIMJl1L43WlJ65t7mIlVIzd6TnL4aJZ/Yj6dBCxDSiowdxndlmf5CnjOLZAUmmCZPk7/KQYQ9S1gAx+Dw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Scrappers\\Scrappers\\Scrappers.csproj",
+  "projectFilePath": "/mnt/4E729E8A78B99A92/Projects/C#/DotaBuff_Checker/Scrappers/Scrappers.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Le1z\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
-    "C:\\Users\\Le1z\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512"
+    "/home/ultrarabbit/.nuget/packages/csvhelper/27.1.1/csvhelper.27.1.1.nupkg.sha512",
+    "/home/ultrarabbit/.nuget/packages/htmlagilitypack/1.11.36/htmlagilitypack.1.11.36.nupkg.sha512"
   ],
   "logs": []
 }
